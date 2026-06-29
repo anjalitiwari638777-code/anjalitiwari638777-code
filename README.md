@@ -37,6 +37,12 @@ Welcome to my GitHub! I'm passionate about software development, problem-solving
 - IntelliJ IDEA
 
 ---
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anjalitiwari638777-code&theme=tokyonight" alt="GitHub Streak" />
+</p>
+---
 
 ##  Featured Projects
 
@@ -66,3 +72,5 @@ A collection of Java solutions for Data Structures & Algorithms problems, organi
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
+
+
