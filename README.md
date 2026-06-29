@@ -16,25 +16,32 @@ Welcome to my GitHub! I'm passionate about software development, problem-solving
 -  I enjoy learning new technologies and building real-world projects.
 
 ---
+## 🛠️ Tech Stack
 
-##  Tech Stack
+<p align="left">
 
-### Languages
-- Java
-- Python
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-### Backend
-- Spring Boot *(Learning)*
-- JDBC
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 
-### Database
-- MySQL
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-### Tools & Technologies
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/JDBC-000000?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+
+</p>
+
+
+
 
 ---
 ## 🔥 GitHub Streak
@@ -42,16 +49,7 @@ Welcome to my GitHub! I'm passionate about software development, problem-solving
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anjalitiwari638777-code&theme=tokyonight" alt="GitHub Streak" />
 </p>
----
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjalitiwari638777-code&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
 ---
 
 ##  Featured Projects
