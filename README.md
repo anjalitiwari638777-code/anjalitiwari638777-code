@@ -43,11 +43,15 @@ Welcome to my GitHub! I'm passionate about software development, problem-solving
   <img src="https://streak-stats.demolab.com?user=anjalitiwari638777-code&theme=tokyonight" alt="GitHub Streak" />
 </p>
 ---
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjalitiwari638777-code&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anjalitiwari638777-code&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
+
+---
 ---
 
 ##  Featured Projects
