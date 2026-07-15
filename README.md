@@ -58,21 +58,27 @@ A console-based Hotel Reservation System developed using Java, JDBC, and MySQL t
 A collection of Java solutions for Data Structures & Algorithms problems, organized by topic to strengthen problem-solving skills.
 
 ---
+## 🚀 Currently Working On
 
-## Currently Learning
+✔ Spring Boot REST APIs
 
-- Spring Boot
-- Python
-- NumPy
-- Agentic AI
-- Git & GitHub Best Practices
+✔ LangChain
+
+✔ Agentic AI
+
+✔ Data Structures & Algorithms
+
+✔ Backend Development
 
 ---
 
-##  Connect With Me
+## 🌐 Connect with Me
 
--  LinkedIn: *(https://www.linkedin.com/in/anjali-tiwari-883798240/)*
--  Email: *(anjalitiwari638777@gmail.com)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-tiwari-883798240/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anjalitiwari638777-code)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anjali3490/)
 
 ---
 
