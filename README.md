@@ -1,6 +1,5 @@
 # Hi , I'm Anjali Tiwari
-
-###  MCA Student | Aspiring AI Engineer | Java & Python Developer
+### Software Developer | Java | Spring Boot | Python | AI/ML | DSA | MCA Student
 
 Welcome to my GitHub! I'm passionate about software development, problem-solving, and Artificial Intelligence. I'm currently building a strong foundation in backend development while exploring modern AI technologies.
 
