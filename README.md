@@ -6,7 +6,7 @@ Hi, I'm Anjali 👋
 I'm an MCA student passionate about Backend Development, Artificial Intelligence, and Data Structures & Algorithms.
 
 Currently, I'm building Java backend applications with Spring Boot while exploring AI and Agentic AI. I enjoy solving coding problems, contributing to projects, and continuously learning modern technologies.
----
+
 
 ## 👩‍💻 About Me
 
